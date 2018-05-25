@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- Student ID: `your id`
-- Student Name: `your name`
-- Section Number: `you section number`
+- Student ID: U1610135
+- Student Name: Malika Juraeva
+- Section Number:002
 
 
